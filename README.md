@@ -12,4 +12,4 @@ Atualmente estudando **Python** e aprendendo a desenvolver meus primeiros projet
 
 📫 **Vamos conectar?**  
 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-nobelino-358a20350/)  
-💻 Meu GitHub: [github.com/EduardoDev](https://github.com/EduardoDev)  
+💻 Meu GitHub: [github.com/NobelinoDev](https://github.com/EduardoNobelino)
